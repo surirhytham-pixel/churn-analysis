@@ -1,1 +1,1 @@
-# churn-analysis
+# Bank_Churn_Analysis_Project
